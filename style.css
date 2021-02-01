@@ -1,0 +1,39 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0;
+    box-shadow : 5px 5px 10px rgb(122, 255, 92);
+}
+
+.note{
+    font-size:15px;
+    color:black;
+}
+
+.copy_right_footer{
+    position:fixed;
+    width:100%;
+    line-height:2;
+    background-color: rgb(79, 255, 149);
+    bottom:0;
+    text-align:center;
+    font-size:15px;
+}
+
+canvas{
+    border:5px dashed black;
+    border-radius:20px;
+    box-shadow:5px 5px 10px rgb(122, 255, 92);
+}
+
+.copy_right_footer:hover{
+    background-color: rgb(79, 246, 255);
+    line-height:3;
+    font-size:17px;
+}
+
+canvas:hover{
+    border:5px dashed grey;
+    border-radius:23px;
+    box-shadow:5px 5px 10px rgb(0, 126, 8);
+}
